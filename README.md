@@ -1,5 +1,5 @@
-# Enterprise WMS Monorepo Template | Vite + NestJS + TypeScript
-### vite-nestjs-wms-ts-template
+# Enterprise WMS Monorepo Template
+### Vite + NestJS + TypeScript
 "Template monorepo siap pakai untuk membangun Warehouse Management System (WMS) tingkat internasional. Sudah terkonfigurasi untuk FEFO/FIFO Enforcement, RBAC Tingkat Lanjut, Traceability Batch, dan integrasi GPS/Barcode Verification."
 
 ---
