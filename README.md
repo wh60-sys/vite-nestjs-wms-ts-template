@@ -54,12 +54,19 @@ Migrasi Database (Contoh): Perintah ORM yang digunakan (misalnya, npm run migrat
 
 /
 ├── .devcontainer/         # Konfigurasi Codespaces/Dev Container
+
 ├── backend/               # Proyek NestJS (BE)
+
 │   ├── src/modules/       # Auth, Inventory, QC, Compliance Modules
+
 │   └── ormconfig.ts       # Konfigurasi DB
+
 ├── frontend/              # Proyek Vite/React (FE)
+
 │   ├── src/api/           # Axios Service Layer
+
 │   └── src/modules/       # Login, WMS, Compliance Pages
+
 └── docker-compose.yml     # Database & Redis Configuration
 
 ---
